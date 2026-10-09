@@ -56,7 +56,7 @@
 
 | Проект | Описание | Код |
 | --- | --- | --- |
-| **AppSmith Lite** | Учебный low-code конструктор внутренних инструментов на Next.js, React и TypeScript: визуальный drag-and-drop редактор, REST-запросы, роли доступа и публикация версий; данные хранятся в PostgreSQL | [Репозиторий](https://github.com/acse07/appsmith-lite) |
+| **AppSmith Lite** | Учебный low-code конструктор внутренних инструментов на Next.js, React и TypeScript: визуальный drag-and-drop редактор, REST-запросы, роли доступа и публикация версий; данные хранятся в PostgreSQL | [Репозиторий](https://github.com/acse07/appsmith-lite) · [Демо](https://appsmith-lite.vercel.app) |
 | **Cino** | Каталог фильмов и сериалов на React и Vite | [Репозиторий](https://github.com/acse07/Cino-petproject) · [Демо](https://acse07.github.io/Cino-petproject/) |
 | **Приложение погоды** | Интерфейс погоды на HTML, CSS и JavaScript | [Репозиторий](https://github.com/acse07/weather-app) · [Демо](https://acse07.github.io/weather-app/) |
 | **Grid-портфолио** | Адаптивная вёрстка портфолио на HTML, SCSS и Gulp | [Репозиторий](https://github.com/acse07/grid-portfolio) · [Демо](https://acse07.github.io/grid-portfolio/) |
