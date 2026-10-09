@@ -1,33 +1,65 @@
-# Hi, I'm acse07 👋
+# Привет, я acse07 👋
 
-I'm a frontend developer building web interfaces and growing my skills through team and personal projects.
+**Frontend-разработчик · React · Next.js · TypeScript**
 
-## About me
+Разрабатываю веб-интерфейсы для командных и личных проектов. Есть опыт работы над продуктами с чатами, задачами, управлением файлами и разграничением доступа. Уделяю внимание удобству интерфейсов, адаптивности и производительности.
 
-- I work with **HTML, CSS/SCSS, JavaScript, and React**.
-- I care about clear layouts, responsive pages, and practical user interfaces.
-- I'm currently exploring **Next.js and TypeScript**.
+## Стек и навыки
 
-## Alif Holding
-
-I was the **primary frontend developer** for three of the team's own products. The apps require access, and their source code is private.
-
-| Product | Frontend work |
+| Направление | Технологии и навыки |
 | --- | --- |
-| **Workspace** | Interface for a team workspace with tasks, chats, a browser, and an AI agent. |
-| **Career** | Interface for an application and candidate review workflow. |
-| **Files** | Interface for managing files, media, and access. |
+| **Вёрстка** | HTML5, CSS3, SCSS, адаптивная вёрстка, Flexbox, Grid, семантическая разметка |
+| **JavaScript и TypeScript** | JavaScript, TypeScript, асинхронная работа с данными |
+| **React и Next.js** | Компоненты, хуки, состояние приложения, маршрутизация |
+| **Рендеринг** | CSR, SSR, SSG — понимание различий и сценариев применения |
+| **API и интеграции** | REST API, HTTP, JSON, интеграция сторонних API |
+| **Авторизация и доступ** | JWT, защищённые маршруты, роли и права доступа, отображение доступных пользователю действий |
+| **Обновления в реальном времени** | Опыт работы с WebSocket |
+| **Платежи** | Опыт интеграции платёжных систем на стороне frontend |
+| **Инструменты** | Git, GitHub, Vite, Gulp |
 
-[See the products on the Alif Holding website](https://www.alifholding.biz/)
+## Что умею
 
-## Personal projects
+- Разрабатывать адаптивные интерфейсы и переиспользуемые компоненты на React и Next.js.
+- Подключать REST API и сторонние сервисы, обрабатывать загрузку данных и ошибки запросов.
+- Работать с JWT-авторизацией и интерфейсами, учитывающими роли и права доступа.
+- Использовать WebSocket для обмена данными и обновления интерфейса в реальном времени.
+- Интегрировать платёжные системы в пользовательские сценарии веб-приложения.
+- Работать над frontend-частью продукта в команде и самостоятельно.
 
-| Project | What it is | Code |
+## Производительность и техническое SEO
+
+Есть опыт оптимизации **Core Web Vitals** и производительности веб-приложений.
+
+- **LCP (Largest Contentful Paint)** — скорость отображения основного контента.
+- **INP (Interaction to Next Paint)** — отзывчивость интерфейса на действия пользователя.
+- **CLS (Cumulative Layout Shift)** — визуальная стабильность страницы.
+- Дополнительные метрики: **FCP**, **TTFB**, **TBT**, **Speed Index** — для анализа загрузки, времени ответа сервера и блокировки основного потока.
+
+Понимаю подходы к оптимизации: отложенная загрузка, разделение кода, оптимизация изображений и шрифтов, сокращение лишних запросов и повторных рендеров.
+
+Знаю основы **технического SEO**: семантическая разметка, заголовки и метатеги, `robots.txt`, `sitemap.xml`, канонические URL и влияние способа рендеринга на индексирование страниц.
+
+## Опыт — Alif Holding
+
+Был **основным frontend-разработчиком** трёх собственных продуктов команды. Приложения требуют доступа, исходный код находится в закрытых репозиториях.
+
+| Продукт | Над чем работал |
+| --- | --- |
+| **Workspace** | Интерфейс рабочего пространства команды: задачи, чаты, браузер и ИИ-агент |
+| **Career** | Интерфейс для работы с откликами и рассмотрения кандидатов |
+| **Files** | Интерфейс для управления файлами, медиа и доступом |
+
+[Продукты на сайте Alif Holding](https://www.alifholding.biz/)
+
+## Личные проекты
+
+| Проект | Описание | Код |
 | --- | --- | --- |
-| **Cino** | A movie and TV catalog built with React and Vite. | [Repository](https://github.com/acse07/Cino-petproject) |
-| **Weather app** | A small weather interface made with HTML, CSS, and JavaScript. | [Repository](https://github.com/acse07/weather-app) |
-| **Grid portfolio** | A responsive portfolio layout using HTML, SCSS, and Gulp. | [Repository](https://github.com/acse07/grid-portfolio) |
+| **Cino** | Каталог фильмов и сериалов на React и Vite | [Репозиторий](https://github.com/acse07/Cino-petproject) |
+| **Приложение погоды** | Интерфейс погоды на HTML, CSS и JavaScript | [Репозиторий](https://github.com/acse07/weather-app) |
+| **Grid-портфолио** | Адаптивная вёрстка портфолио на HTML, SCSS и Gulp | [Репозиторий](https://github.com/acse07/grid-portfolio) |
 
-## What I'm working on
+## Что развиваю
 
-Improving my React skills, writing cleaner frontend code, and turning practice into useful projects.
+Углубляю знания React, Next.js и TypeScript, улучшаю структуру frontend-приложений и подходы к оптимизации. Развиваю навыки разработки понятных интерфейсов и поддерживаемого кода.
